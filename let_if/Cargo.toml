@@ -1,0 +1,6 @@
+[package]
+name = "let_if"
+version = "0.1.0"
+authors = ["sandwich <sandwich@live.cn>"]
+
+[dependencies]

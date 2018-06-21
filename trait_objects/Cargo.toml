@@ -1,0 +1,6 @@
+[package]
+name = "trail_objects"
+version = "0.1.0"
+authors = ["sandwich <sandwich@live.cn>"]
+
+[dependencies]

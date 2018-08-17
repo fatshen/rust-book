@@ -1,0 +1,6 @@
+[package]
+name = "crate_and_modules"
+version = "0.1.0"
+authors = ["sandwich <sandwich@live.cn>"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "type_aliase"
+version = "0.1.0"
+authors = ["sandwich <sandwich@live.cn>"]
+
+[dependencies]
